@@ -1,3 +1,4 @@
 [![VisualIdeas's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/visual-ideas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvenga)](https://github.com/anuraghazra/github-readme-stats)
+[![Contact me via Gmail]([https://img.shields.io/packagist/v/visual-ideas/laravel-site-settings.svg?style=flat-square](mailto:alex.visualideas@gmail.com
+))
